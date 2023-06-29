@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://gayathrimummidi.github.io/project18/
-**Project demo video link** -
+**Project demo video link** -  https://youtu.be/hHVHDVmArWc
 
 **Azure Technologies Used for Project**
 

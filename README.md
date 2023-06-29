@@ -34,8 +34,7 @@ Health bot
 
 
 
-![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
-
+![Screenshot (565)](https://github.com/gayathrimummidi/project18/assets/109512103/6841ee4a-f6d0-42e6-b473-bfe875fb066b)
 
 ### health bot -
 

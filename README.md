@@ -9,8 +9,10 @@ This is a web based application developed for health related telugu based websit
 **Project demo video link** -
 
 **Azure Technologies Used for Project**
-Static web apps
-Health bot
+
+         Static web apps
+   
+         Health bot
 
 ## Features and Functionalities 😃
 

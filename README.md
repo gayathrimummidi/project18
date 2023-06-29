@@ -8,6 +8,9 @@ This is a web based application developed for health related telugu based websit
 **Project Link** - https://gayathrimummidi.github.io/project18/
 **Project demo video link** -
 
+**Azure Technologies Used for Project**
+Static web apps
+Health bot
 
 ## Features and Functionalities 😃
 
@@ -34,10 +37,9 @@ This is a web based application developed for health related telugu based websit
 ![Screenshot 2022-03-07 090859](https://user-images.githubusercontent.com/98517345/156963803-135e9564-ca95-458e-9074-0d7aa2f7d586.jpg)
 
 
-### Privacy policy -
+### health bot -
 
 
-![Screenshot 2022-03-07 090943](https://user-images.githubusercontent.com/98517345/156963849-e8ead038-b9ea-4320-9165-9f99cf00d9d2.jpg)
 
 
 

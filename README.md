@@ -34,7 +34,8 @@ Health bot
 
 
 
-![Screenshot (565)](https://github.com/gayathrimummidi/project18/assets/109512103/6841ee4a-f6d0-42e6-b473-bfe875fb066b)
+![WhatsApp Image 2023-06-29 at 13 46 39](https://github.com/gayathrimummidi/project18/assets/109512103/0e4a1ebe-1fc3-4d55-8a89-6b7fe2b66e31)
+
 
 ### health bot -
 

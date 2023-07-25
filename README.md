@@ -16,7 +16,7 @@ This is a web based application developed for health related telugu based websit
 
 ## Features and Functionalities 😃
 
-- Interactive and responsive UI.
+- Interactive and responsive  UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
